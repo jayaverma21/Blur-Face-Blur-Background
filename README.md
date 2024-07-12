@@ -16,8 +16,8 @@ This Python script provides real-time face and background blurring using OpenCV.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/face-background-blur.git
-    cd face-background-blur
+    git clone https://github.com/jayaverma21/Blur-Face-Blur-Background.git
+    cd Blur-Face-Blur-Background
     ```
 
 2. Install the required packages:
